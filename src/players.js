@@ -1,3 +1,5 @@
+// Json objects containig players details 
+
 const players = [
     {
       name: "Kylian Mbappé",
@@ -13,7 +15,7 @@ const players = [
       nationality: "Norway",
       jerseyNumber: 9,
       age: 23,
-      imageUrl: "https://assets-fr.imgfoot.com/media/cache/1200x1200/erling-haaland-2324-xf.jpg",
+      imageUrl: "https://beninwebtv.com/wp-content/uploads/2023/10/Erling-Haaland-sous-le-maillot-de-Manchester-City.webp",
     },
     {
         name: "Mohamed Salah",
